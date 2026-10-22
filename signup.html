@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="signup">
+    <form class="signupbox" id="registerform">
+
+        <h1>Sign-Up</h1>
+       
+        <input type="text" required placeholder="Username" id="username">
+        <p id="nameError" class="error"></p>
+        <br><br>
+
+       
+        <input type="text" placeholder="phone number" maxlength="10" minlength="10" id="phoneno">
+        <p id="phoneError" class="error"></p>
+        <br><br>
+
+        <input type="email" placeholder="E-mail" id="email">
+        <p id="emailError" class="error"></p>
+        <br><br>
+
+        <input type="password" placeholder="Password"  id="password">
+        <p id="passwordError" class="error"></p>
+        <br><br>
+
+        <input type="password" placeholder="Confirm password" id="cnfrmpassword">
+        <p id="confirmPasswordError" class="error"></p>
+        <br><br>
+
+        <button type="submit">Sign-In</button>
+
+        <p class="optionlogin">already have an account? <a href="login.html" class="optionsignin" style="color: rgb(102, 10, 10);  text-decoration: underline;">Log-In</a></p>
+
+
+    </form>
+    </div>
+    <script src="signup.js"></script>
+</body>
+</html>

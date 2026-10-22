@@ -1,0 +1,279 @@
+[
+  {
+    "id":1,
+    "destination": "Varkala",
+    "herobudget":"Moderate",
+    "location": "Thiruvananthapuram District, Southern Kerala",
+    "category": "Beach & Wellness",
+    "budget": "Moderate (Approx. ₹2,500 – ₹4,500 per day including cliff-side dining and stays)",
+    "best_time_to_visit": "October to March",
+    "recommended_duration": "2 Days",
+    "about_destination_name":"About Varkala",
+    "more_name":"More About Varkala",
+    "simple_intro": "A beautiful coastal town famous for its unique red cliffs overlooking the Arabian Sea.",
+    "heavy_introduction": "Varkala is a coastal jewel where striking, vertical red laterite cliffs stand guard over the pristine waters of the Arabian Sea. Renowned both as a bohemian beach paradise and a sacred pilgrimage site (home to the ancient Janardhana Swamy Temple and the historic Papanasam Beach), it offers a rare blend of spiritual tranquility, dramatic geology, and a vibrant cliff-top cafe culture that attracts global backpackers and wellness seekers alike.",
+    "to_do_list": [
+      "Watch the sunset from the famous Varkala Cliff cafes",
+      "Try paragliding or surfing at Papanasam Beach",
+      "Visit the 2,000-year-old Janardhana Swamy Temple",
+      "Experience an authentic Ayurvedic massage or yoga session"
+    ],
+     "images": {
+        "hero": "media/varkala.jpg",
+        "gallery": [
+            "media/varkala1.jpg",
+            "media/varkala5.jpg",
+            "media/varkala6.jpg"
+        ]
+    }
+    
+  },
+  {
+    "id":2,
+    "destination": "Ranipuram",
+    "herobudget":"Moderate",
+    "location": "Kasaragod District, Northern Kerala",
+    "category": "Hill Station & Trekking",
+    "budget": "Moderate (Approx. ₹1,500 – ₹3,000 per day; highly affordable eco-tourism accommodation)",
+    "best_time_to_visit": "September to March",
+    "recommended_duration": "1 Day",
+    "about_destination_name":"About Rainpuram",
+    "more_name":"More About Ranipurm",
+    "simple_intro": "An offbeat, misty hill station famous for its green meadows and trekking trails, often called the Ooty of Kerala.",
+    "heavy_introduction": "Tucked away in the northernmost corner of Kerala, Ranipuram is a hidden biosphere sitting 1,022 metres above sea level. Famed for its expansive, velvety green grasslands that mimic the rolling moors of Scotland, this offbeat paradise transitions seamlessly from dense evergreen shola forests to mist-shrouded rocky peaks. It remains one of the state's most untouched eco-tourism destinations, perfect for travelers seeking solitude away from commercial crowds.",
+    "to_do_list": [
+      "Trek up the Ranipuram Peak through dense shola forests",
+      "Relax on the expansive, wind-swept hilltop green meadows",
+      "Spot wild elephants and diverse bird species along the forest trails",
+      "Capture panoramic landscape photography from Mani Hills"
+    ],
+     "images": {
+      "hero": "media/ranipuram.jpg",
+        "gallery": [
+            "media/ranipuram1.jpg",
+            "media/ranipuram2.jpg",
+            "media/ranipuram3.jpg"
+        ]
+    }
+  },
+  {
+    "id":3,
+    "destination": "Athirappilly",
+    "herobudget":"Moderate",
+    "location": "Thrissur District, Central Kerala",
+    "category": "Waterfalls & Eco-Tourism",
+    "budget": "Moderate (Approx. ₹2,000 – ₹4,000 per day; options range from local homestays to riverview lodges)",
+    "best_time_to_visit": "September to January (Post-monsoon offers the most majestic flow)",
+    "recommended_duration": "1 - 2 Days",
+    "about_destination_name":"About Athirappally",
+    "more_name":"More About Athirapally",
+    "simple_intro": "India's most majestic and largest waterfall, surrounded by dense, wildlife-rich rainforests.",
+    "heavy_introduction": "Commonly hailed as the 'Niagara of India,' Athirapally is a thundering 80-foot-tall waterfall that plunges down into the Chalakudy River. Nested within the western face of the dense Sholayar forest ranges, this biological hotspot acts as a vital corridor linking the wildlife of the Western Ghats. The sheer acoustic power of the roaring water, combined with the misty spray blanket covering the surrounding emerald canopy, makes it a dramatic masterpiece of nature.",
+    "to_do_list": [
+      "Walk down the forest trail to stand right at the base of the thundering falls",
+      "Visit the neighboring Vazhachal and Charpa waterfalls",
+      "Spot the rare and endangered Great Indian Hornbill in the rainforest canopy",
+      "Take a scenic drive through the deep, mist-covered Sholayar forest range"
+    ],
+     "images": {
+      "hero": "media/athir1.jpg",
+        "gallery": [
+            "media/athir1.jpg",
+            "media/athir2.jpg",
+            "media/athir3.jpg"
+        ]
+    }
+  },
+  {
+    "id":4,
+    "destination": "Munnar",
+    "herobudget":"Moderate",
+    "location": "Idukki District, Central Kerala",
+    "category": "Hill Station & Tea Plantations",
+    "budget": "Moderate (Approx. ₹3,000 – ₹5,500 per day; endless options for mid-range plantation resorts)",
+    "best_time_to_visit": "September to May",
+    "recommended_duration": "3 Days",
+    "about_destination_name":"About Munnar",
+    "more_name":"More About Munnar",
+    "simple_intro": "A world-famous hill station known for its expansive tea plantations, winding roads, and cool climate.",
+    "heavy_introduction": "Perched at an altitude of 1,600 metres at the confluence of three mountain streams, Munnar is a sprawling tapestry of meticulously manicured tea estates, colonial-era remnants, and mist-kissed peaks. Once the summer resort of the British Government in South India, it boasts the highest peak in South India—Anamudi. The region is a treasure trove of biodiversity, famous for the blooming of the rare blue Neelakurinji flowers and its crisp, refreshing mountain air.",
+    "to_do_list": [
+      "Walk through the emerald tea gardens and visit the Tata Tea Museum",
+      "Spot the endangered Nilgiri Tahr at Eravikulam National Park",
+      "Enjoy boating on the scenic Mattupetty Dam and Kundala Lake",
+      "Catch the sunrise at the stunning Top Station viewpoint"
+    ],
+     "images": {
+      "hero": "media/munnar.jpg",
+        "gallery": [
+            "media/munnar1.jpg",
+            "media/munnar2.jpg",
+            "media/munnar3.jpg"
+        ]
+    }
+  },
+  {
+    "id":5,
+    "destination": "Alappuzha",
+    "herobudget":"Moderate",
+    "location": "Alappuzha District, Southern Kerala",
+    "category": "Backwaters & Houseboats",
+    "budget": "Moderate (Approx. ₹3,500 – ₹6,000 per day; sharing a traditional houseboat or staying in a lagoon homestay keeps it highly moderate)",
+    "best_time_to_visit": "November to February",
+    "recommended_duration": "2 Days",
+    "about_destination_name":"About Alappuzha",
+    "more_name":"More About Alappuzha",
+    "simple_intro": "The ultimate backwater destination, world-renowned for its traditional houseboats and glassy canals.",
+    "heavy_introduction": "Coined the 'Venice of the East' by Lord Curzon, Alappuzha is an intricate labyrinth of vast lakes, slow-moving lagoons, and palm-fringed canals feeding into the Arabian Sea. Life here moves to the gentle rhythm of water, where traditional Kettuvallams (giant houseboats stitched with coir ropes) glide smoothly past emerald paddy fields harvested below sea level. It represents the quintessential, serene soul of rural coastal Kerala.",
+    "to_do_list": [
+      "Overnight stay or day cruise on a traditional Kettuvallam houseboat",
+      "Explore the narrow village canals via a budget-friendly canoe or kayak",
+      "Watch the sunset at the historic Alappuzha Beach and its old pier",
+      "Visit Kuttanad, the region where farming is famously done below sea level"
+    ],
+     "images": {
+      "hero": "media/allap2.jpg",
+        "gallery": [
+            "media/allap1.jpg",
+            "media/allap2.jpg",
+            "media/allap3.jpg"
+        ]
+    }
+  },
+  {
+    "id":6,
+    "destination": "Kochi",
+    "herobudget":"Moderate",
+    "location": "Ernakulam District, Central Kerala",
+    "category": "Heritage, Culture & Urban",
+    "budget": "Moderate (Approx. ₹2,500 – ₹4,500 per day; rich variety of heritage boutique stays and trendy hostels)",
+    "best_time_to_visit": "October to March",
+    "recommended_duration": "2 Days",
+    "about_destination_name":"About Kochi",
+    "more_name":"More About Kochi",
+    "simple_intro": "A vibrant historic port city where colonial heritage seamlessly blends with modern art and culture.",
+    "heavy_introduction": "For over six centuries, the port city of Kochi—the 'Queen of the Arabian Sea'—has been a magnet for spice traders, explorers, and empires. The city is a fascinating living museum where monumental Chinese fishing nets line the shore, Portuguese churches sit alongside Dutch palaces, and an ancient Jewish synagogue anchors a bustling spice market. Today, it stands proudly as the modern cultural capital of the state, hosting the globally acclaimed Kochi-Muziris Biennale.",
+    "to_do_list": [
+      "Explore the colonial streets, cafes, and street art of Fort Kochi on foot",
+      "Watch fishermen operate the iconic, giant Chinese Fishing Nets",
+      "Visit the historic Mattancherry Palace and the Paradesi Synagogue in Jew Town",
+      "Take a budget-friendly public water metro ride across the harbor islands"
+    ], "images": {
+      "hero": "media/kochi1.jpg",
+        "gallery": [
+            "media/kochi1.jpg",
+            "media/kochi2.jpg",
+            "media/kochi3.jpg"
+        ]
+    }
+  },
+  {
+    "id":7,
+    "destination": "Wayanad",
+    "herobudget":"Moderate",
+    "location": "Wayanad District, Northern Kerala",
+    "category": "Nature, Wildlife & Adventure",
+    "budget": "Moderate (Approx. ₹2,500 – ₹5,000 per day; great availability of eco-resorts and jungle cabins)",
+    "best_time_to_visit": "October to May",
+    "recommended_duration": "3 Days",
+    "about_destination_name":"About Wayanad",
+    "more_name":"More About Wayanad",
+    "simple_intro": "A high-altitude paradise packed with spice plantations, ancient caves, and wildlife sanctuaries.",
+    "heavy_introduction": "Perched high on the Western Ghats, Wayanad is a mist-heavy wonderland characterized by sub-tropical savannahs, towering peaks, and spice-scented air. It acts as an anthropological and historical goldmine, sheltering Neolithic-era cave carvings alongside thriving indigenous tribal communities. With a landscape rich in cascading waterfalls, expansive wildlife preserves, and sprawling coffee estates, it caters perfectly to adventurers and nature lovers alike.",
+    "to_do_list": [
+      "Climb up to the Edakkal Caves to see ancient Neolithic rock carvings",
+      "Trek to the heart-shaped lake on the way to the towering Chembra Peak",
+      "Go on a jeep safari through the Wayanad Wildlife Sanctuary to spot wild elephants",
+      "Visit the massive Banasura Sagar Dam, the largest earthen dam in India"
+    ], "images": {
+      "hero": "media/wayan2.jpg",
+        "gallery": [
+            "media/wayan1.jpg",
+            "media/wayan2.jpg",
+            "media/wayan3.jpg"
+        ]
+    }
+  },
+  {
+    "id":8,
+    "destination": "Vagamon",
+    "herobudget":"Moderate",
+    "location": "Idukki-Kottayam Border, Central Kerala",
+    "category": "Offbeat Hill Station & Adventure",
+    "budget": "Moderate (Approx. ₹2,000 – ₹3,500 per day; excellent options for cozy hillside cottages)",
+    "best_time_to_visit": "September to May",
+    "recommended_duration": "2 Days",
+    "about_destination_name":"About Vagamon",
+    "more_name":"More About Vagamon",
+    "simple_intro": "A quiet, dreamy hill station famous for its pine forests, green meadows, and adventure sports.",
+    "heavy_introduction": "Stripped of commercial chaos, Vagamon is an enchanting, sleepy hill station composed of a triad of beautiful hills: Thangal, Murugan, and Kurisumala. Known for its cool climate that lingers year-round, the landscape alternates between rolling velvet lawns, eerie pine forests, and deep, misty chasms. Increasingly recognized as South India's premier paragliding hub, it balances raw tranquility with an emerging spark of adrenaline adventure.",
+    "to_do_list": [
+      "Walk through the tall trees of the mystical Vagamon Pine Forest",
+      "Enjoy a breezy stroll across the sweeping Vagamon Kurisumala Green Meadows",
+      "Experience the adrenaline rush of tandem paragliding from Kolahalamedu",
+      "Take a spine-chilling walk across the Vagamon Glass Bridge"
+    ], "images": {
+      "hero": "media/vagamon.jpg",
+        "gallery": [
+            "media/vaga1.jpg",
+            "media/vaga2.jpg",
+            "media/vaga3.jpg"
+        ]
+    }
+  },
+  {
+    "id":9,
+    "destination": "Gavi",
+    "herobudget":"Moderate",
+    "location": "Pathanamthitta District, Southern Kerala",
+    "category": "Strict Wildlife & Eco-Tourism",
+    "budget": "Moderate (Approx. ₹3,000 – ₹4,500 per day; usually managed via Kerala Forest Development Corporation packages including food and safari)",
+    "best_time_to_visit": "September to February",
+    "recommended_duration": "1 - 2 Days",
+    "about_destination_name":"About Gavi",
+    "more_name":"More About Gavi",
+    "simple_intro": "An pristine, deeply forested eco-tourism village famous for its raw wildlife encounters and serene lakes.",
+    "heavy_introduction": "Gavi is a preserved wilderness enclave situated inside the Ranni reserve forest buffer zone. Made famous by its strictly controlled eco-tourism model, it provides a sanctuary for rare fauna, including the endangered Lion-tailed Macaque and the Nilgiri Tahr. Lined with thick, mossy trees, silent forest lakes, and sweeping views of deep valleys, a journey into Gavi is a true off-the-grid immersion into the unfiltered heart of the Western Ghats rainforest.",
+    "to_do_list": [
+      "Go canoeing or boating in the crystal-clear waters of the silent Gavi Lake",
+      "Take a guided jungle night safari or deep forest trek with local experts",
+      "Visit the cardamom plantation fields and the local spice processing museum",
+      "Camp under the stars at the eco-lodges managed by the forest department"
+    ], "images": {
+      "hero": "media/gavi.jpg",
+        "gallery": [
+            "media/gavi1.jpg",
+            "media/gavi2.jpg",
+            "media/gavi3.jpg"
+        ]
+    }
+  },
+  {
+    "id":10,
+    "destination": "Thenmala",
+    "herobudget":"Moderate",
+    "location": "Kollam District, Southern Kerala",
+    "category": "Planned Eco-Tourism & Adventure",
+    "budget": "Moderate (Approx. ₹2,000 – ₹3,500 per day; affordable entry packages and well-priced eco-tents)",
+    "best_time_to_visit": "October to March",
+    "recommended_duration": "1 - 2 Days",
+    "about_destination_name":"About Thenmala",
+    "more_name":"More About Thenmala",
+    "simple_intro": "India's very first planned eco-tourism destination, combining nature conservation with soft adventure.",
+    "heavy_introduction": "Sitting at the foothills of the southern Western Ghats, Thenmala—which translates to 'Honey Hills'—holds the proud distinction of being India’s first operational planned eco-tourism destination. Divided into specialized themed zones (Culture, Adventure, and Leisure), it surrounds the massive Thenmala Dam reservoir. It offers a structured yet deeply organic way to experience the wilderness, combining light adventure sports, deer rehabilitation centers, and beautiful river boardwalks.",
+    "to_do_list": [
+      "Try soft adventure activities like elevated walkway trekking, rock climbing, and ziplining",
+      "Take a peaceful boat ride in the Shendurney Wildlife Sanctuary reservoir",
+      "Visit the local Deer Rehabilitation Center to see spotted deer up close",
+      "Watch the beautifully synchronized musical dancing fountain show at the culture zone"
+    ],
+     "images": {
+      "hero": "media/thenmala.jpg",
+        "gallery": [
+            "media/then1.jpg",
+            "media/then2.jpg",
+            "media/then3.jpg"
+        ]
+    }
+  }
+]

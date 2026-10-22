@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div  class="mytriphero">
+
+        <nav class="navbar">
+            <div class="navhead">
+                <div class="navleft">
+                    <button class="backArrow" id="backarrow">←</button>
+        
+
+                    <div class="logoutexplore">
+
+                    <a href="login.html" id="loginLink" style="margin-top: 13px;">Login</a>
+
+                    <span id="usernameDisplay"></span>
+
+                    <button id="logoutBtn" style="margin-top: 13px;">Logout</button>
+
+                    </div>
+                </div>
+            </div>
+            <div class="navlist">
+                <ul>
+                    
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="explore.html">Explore</a></li>
+                    <li><a href="plansmart.html">Pack smart</a></li>
+                    <li><a href="mytrips.html">My Trips</a> </li>
+                    <li><a href="contactUs.html">About Us</a> </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="mytriphead">
+
+            <h1>My Saved Trips</h1>
+            
+
+        </div>
+
+        <div class="mytripcontainer" id="myTripContainer">
+
+            <button class="deleteTripBtn" data-index="${index}">Delete</button>
+
+            
+
+        </div>
+        <div id="packingPopup" class="packingPopup"></div>
+
+    </div>
+
+    <script src="mytrips.js"></script>
+</body>
+</html>

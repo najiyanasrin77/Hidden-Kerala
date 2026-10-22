@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="plansmart">
+
+        <nav class="navbar">
+            <div class="navhead">
+                <div class="navleft">
+        <button class="backArrow" id="backarrow">←</button>
+        
+
+        <div class="logoutexplore">
+
+            <a href="login.html" id="loginLink" style="margin-top: 13px;">Login</a>
+
+            <span id="usernameDisplay"></span>
+
+            <button id="logoutBtn" style="margin-top: 13px;">Logout</button>
+
+        </div>
+        </div>
+            </div>
+            <div class="navlist">
+                <ul>
+                    
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="explore.html">Explore</a></li>
+                    <li><a href="plansmart.html">Pack smart</a></li>
+                    <li><a href="mytrips.html">My Trips</a> </li>
+                    <li><a href="contactUs.html">About Us</a> </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="planhead">
+           
+            <div class="logocontainer"> <div class="logo"><img src="media/pack.jpg" width="50px" height="50px" style="border-radius: 100px;">
+             </div><h1>PackSmart </h1></div>
+            <p>"Pack smarter. Travel lighter."</p>
+            <hr width="100px"><br>
+            <div class="formhead">
+                <p>Tell us about your trip and we'll help you
+                   prepare the perfect packing list.</p>
+            </div>
+           
+            <button id="saveTripbtn">⤓ </button>
+           
+
+        </div>
+
+        <div class="planherocontainer">
+
+         <div class="planhero">
+
+            <div class="tripdetailhead">
+                <h1>Trip Details</h1>
+                <p>fill in the details below to get your personalized packing list.</p>
+            </div>
+
+            
+
+             <form class="plancontainer" id="packingForm">
+                <div>
+                <label for="">Destination 🌐︎ :</label><br><br>
+                <select name="" id="destination" class="selectgrid">
+                    <option value="">Destination</option>
+                    <option value="varkala">varkala</option>
+                    <option value="ranipuram">Ranipuram</option>
+                    <option value="athirappally">Athirappally</option>
+                    <option value="munnar">Munnar</option>
+                    <option value="alapuzha">Alappuzha</option>
+                    <option value="kochi">Kochi</option>
+                    <option value="wayanad">Wayanad</option>
+                    <option value="vagamon">Vagamon</option>
+                    <option value="gavi">Gavi</option>
+                    <option value="thenmala">Thenmala</option>
+                </select>
+                <br>
+                <p id="destierror" class="error"></p>
+                <hr style="transform: rotate(90deg)" width="120px" >
+
+                <label for=""> Duration ⏱:</label><br><br>
+                <input type="number" id="duration" min="1" placeholder="Duration" class="selectgrid"><br>
+                 <p id="durationerror" class="error"></p>
+                 
+
+                </div>
+                
+                <div>
+
+                <label for="">Trip Type ⛰︎ :</label><br><br>
+                <select name="" id="tripType" class="selectgrid">
+                    <option value="">Select trip type</option>
+                    <option value="adventure">Adventure</option>
+                    <option value="beach">Beach Vacation</option>
+                    <option value="nature">Nature & Wildlife</option>
+                    <option value="family">Family Trip</option>
+                    <option value="solo">Solo Trip</option>
+                    
+
+                </select><br><p id="triperror" class="error"></p>
+
+
+                <label>Weather 🌤 :</label><br><br>
+                <select name="" id="weather" class="selectgrid">
+                    <option value="">Select weather</option>
+                    <option value="rainy">Rainy</option>
+                    <option value="sunny">Sunny</option>
+                    <option value="cool">Cool</option>
+                    <option value="humid">Humid</option>
+                    
+
+                </select><br><p id="weathererror" class="error"></p>
+                </div>
+
+                <button type="submit"  class="packinglistbtn"> Generate Packing List ⟶</button>
+             </form>
+
+          </div>
+
+         <div class="packinglist" id="packingList">
+
+            
+
+            
+
+         </div>
+         
+
+        </div>
+        
+
+    
+        <div class="packinglistfeaturebox">
+            <div class="ftrbox1">
+                <img src="media/suggestion.jpg">
+                <h5>Smart Suggestions</h5>
+                <p>Get packing lists based on your trip details.</p>
+            </div>
+            <hr>
+            <div class="ftrbox2">
+                 <img src="media/pack.jpg">
+                <h5>Destination Specific</h5>
+                <p>Includes essentials for each location.</p>            
+            </div>
+            <hr>
+            <div class="ftrbox3">
+                 <img src="media/weather.jpg">
+                <h5>Weather Friendly</h5>
+                <p>Be prepared for any weather</p>
+            </div>
+            <hr>
+            <div class="ftrbox4">
+                 <img src="media/travel.jpg">
+                <h5>Travel Better</h5>
+                <p>Pack right, enjoy <br> more!</p>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+    <script src="plansmart.js"></script>
+
+</body>
+</html>

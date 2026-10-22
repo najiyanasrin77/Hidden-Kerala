@@ -1,0 +1,91 @@
+[
+  {
+    "id": "exp-card10",
+    "name": "Varkala",
+    "image": "media/varkala.jpg",
+    "description": "Varkala is a beautiful coastal destination famous for its dramatic cliffs, golden beach, and Arabian Sea views. It is a great place to relax, enjoy sunsets, and experience Kerala’s coastal charm.",
+    "category": ["beach"],
+    "link": "varkala.html"
+  },
+
+  {
+    "id": "exp-card9",
+    "name": "Ranipuram",
+    "image": "media/ranipuram.jpg",
+    "description": "Ranipuram is a peaceful hill destination known for its rolling grasslands, forests, and misty mountain views. Its scenic trekking trails make it a wonderful choice for nature lovers and adventure seekers.",
+    "category": ["forest"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card8",
+    "name": "Athirappilly",
+    "image": "media/athirappally.jpg",
+    "description": "Athirappilly is Kerala’s most famous waterfall, surrounded by lush green forests and beautiful natural scenery. The powerful cascade and peaceful surroundings make it a perfect destination for nature lovers, photographers, and adventure seekers.",
+    "category": ["waterfall", "forest"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card1",
+    "name": "Munnar",
+    "image": "media/munnar.jpg",
+    "description": "Munnar is a beautiful hill station in Kerala, famous for its green tea plantations, misty mountains, cool climate, and peaceful scenery. It is a perfect destination for nature lovers and those looking for a relaxing escape.",
+    "category": ["forest"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card2",
+    "name": "Alappuzha",
+    "image": "media/alappuzha.jpg",
+    "description": "Alappuzha is famous for its beautiful backwaters, houseboats, and peaceful waterways. Surrounded by coconut trees and scenic landscapes, it is a wonderful place to experience Kerala’s natural beauty.",
+    "category": ["backwaters"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card3",
+    "name": "Kochi",
+    "image": "media/kochi.jpg",
+    "description": "Kochi is a vibrant coastal city known for its rich history, culture, and beautiful streets. Its blend of traditional heritage and modern life makes it an exciting place to explore.",
+    "category": ["beach"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card4",
+    "name": "Wayanad",
+    "image": "media/wayanad.jpg",
+    "description": "Wayanad is a scenic hill district surrounded by lush forests, mountains, waterfalls, and wildlife. It is an ideal destination for nature lovers, adventure seekers, and those looking for a peaceful getaway.",
+    "category": ["forest", "waterfall"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card5",
+    "name": "Vagamon",
+    "image": "media/vagamon.jpg",
+    "description": "Vagamon is a peaceful hill station known for its green meadows, pine forests, misty hills, and pleasant climate. It is a great destination for relaxing, exploring nature, and enjoying outdoor activities.",
+    "category": ["forest"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card6",
+    "name": "Gavi",
+    "image": "media/gavi.jpg",
+    "description": "Gavi is a beautiful forest destination surrounded by lush greenery, mountains, and wildlife. It offers a peaceful escape into nature and is perfect for trekking, camping, and wildlife experiences.",
+    "category": ["forest"],
+    "link": "#"
+  },
+
+  {
+    "id": "exp-card7",
+    "name": "Thenmala",
+    "image": "media/thenmala.jpg",
+    "description": "Thenmala is a beautiful eco-tourism destination surrounded by forests, hills, and scenic landscapes. It is known for its natural beauty and outdoor activities, making it a great place for adventure and relaxation.",
+    "category": ["forest"],
+    "link": "#"
+  }
+]
